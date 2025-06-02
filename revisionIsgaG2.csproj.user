@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccueilForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ArchiveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardEnseignant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnseignantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnseignantLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EtudiantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EtudiantLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examenform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PublicationResultatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaisieNotesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectionModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatistiquesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ValidationNotesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
